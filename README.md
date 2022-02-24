@@ -50,4 +50,4 @@ The following picture is a sample of the page's functionality:
 ![A screen shot of the website](./assets/images/screen-shot.jpg)
 ## Live URL
 
-https://kolatham.github.io/fun-with-horoscopes/
+https://rhoverholt.github.io/fun-with-horoscopes/
